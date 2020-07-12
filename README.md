@@ -5,8 +5,9 @@
      * upper part: using bottom right triangle, ractangle, and bottom left triangle alternately
      * lower part: using big top right triangle and big top left triangle
 
-  <reference>
-    
+  <reference>  
+      ![types of triangle](/types_of_triangle.PNG)
+
     
 # console capture
 ### print star in pyramid shape
